@@ -13,7 +13,7 @@ ul{
     height: 60px;
     align-items: center;
     justify-content: center;
-    background-color: red;
+    background-color: rgb(7, 0, 51);
     border-bottom: 2px solid black;
 }
 
